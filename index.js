@@ -1,5 +1,3 @@
-gfgfgh
-uhuhunnon
-kjlkj
-парррпоорлд
-шлгшшщддщ
+console.log(
+    'Кира - собачка!'
+    );
